@@ -1,4 +1,4 @@
-int fps = 5;
+int fps = 25;
 float rotationSpeed = 0.05;
 
 PVector axisSpeed = new PVector(0.5, 0.25, 1);
